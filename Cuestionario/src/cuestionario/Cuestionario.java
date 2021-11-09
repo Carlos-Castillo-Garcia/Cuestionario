@@ -19,7 +19,6 @@ public class Cuestionario {
         System.out.println("Este cuestionario es sobre el juego OGAME.");
         System.out.println("En el deberas de poner informacion como (nombre de jugador, numero de planetas colonizados, " +
                 "cantidad de recursos y muchos mas.)");
-        System.out.println();
     }
 
 }

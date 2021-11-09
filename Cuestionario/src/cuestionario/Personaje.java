@@ -46,5 +46,6 @@ public class Personaje {
         this.n_naves_carga = n_naves_carga;
         this.n_colonizadores = n_colonizadores;
         this.numero_defensas_totales = numero_defensas_totales;
+
     }
 }

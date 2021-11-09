@@ -12,7 +12,6 @@ public class Contador extends Thread{
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-
         }
     }
 
